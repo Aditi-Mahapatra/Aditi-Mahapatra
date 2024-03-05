@@ -19,7 +19,7 @@
 <p align="left">
 <br>
 
-<a href="https://linkedin.com/in/aditi-mahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi-mahapatra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditi-mahapatra-105a97246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi-mahapatra" height="30" width="40" /></a>
 <br>
 
 <a href="https://kaggle.com/aditimahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aditimahapatra" height="30" width="40" /></a>
