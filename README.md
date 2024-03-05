@@ -32,8 +32,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditi-mahapatra&show_icons=true&locale=en&layout=compact" alt="aditi-mahapatra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditi-mahapatra&theme=dark&show_icons=true&locale=en&layout=compact" alt="aditi-mahapatra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-mahapatra&show_icons=true&locale=en" alt="aditi-mahapatra" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-mahapatra&theme=dark&show_icons=true&locale=en" alt="aditi-mahapatra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-mahapatra&" alt="aditi-mahapatra" /></p>
