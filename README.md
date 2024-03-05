@@ -17,22 +17,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<br>
+
 
 <a href="https://linkedin.com/in/aditi-mahapatra-105a97246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi-mahapatra" height="30" width="40" /></a>
-<br>
+
 
 <a href="https://kaggle.com/aditimahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aditimahapatra" height="30" width="40" /></a>
-<br>
+
 
 <a href="https://www.codechef.com/users/aditi_me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditi_me" height="30" width="40" /></a>
-<br>
+
 
 <a href="https://www.hackerrank.com/@maditi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@maditi" height="30" width="40" /></a>
-<br>
+
 
 <a href="https://www.leetcode.com/aditi_mahapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditi_mahapatra" height="30" width="40" /></a>
-<br>
+
 
 <a href="https://auth.geeksforgeeks.org/user/madigra4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="madigra4" height="30" width="40" /></a>
 </p>
