@@ -7,11 +7,11 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi-mahapatra" alt="aditi-mahapatra" /></a> </p>
 
-- 🔭 I’m currently working on **Dynamic Pricing**
+- 🔭 I’m currently working on **Data Structure and Algorithm**
 
 - 🌱 I’m currently learning **React Js ,Node Js**
 
-- 👯 I’m looking to collaborate on **Plagiarism Checker**
+- 👯 I’m looking to collaborate on **ML Projects**
 
 - 📫 How to reach me **maditi@gitam.in**
 
