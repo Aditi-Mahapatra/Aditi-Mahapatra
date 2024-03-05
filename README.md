@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Aditi Mahapatra</h1>
 <h3 align="center">A passionate Machine Learning and frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-mahapatra&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-mahapatra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-mahapatra&theme=dark&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-mahapatra" /> </p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi-mahapatra" alt="aditi-mahapatra" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi-mahapatra&theme=dark&" alt="aditi-mahapatra" /></a> </p>
 
 - 🔭 I’m currently working on **Data Structure and Algorithm**
 
@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi-mahapatra&theme=dark&show_icons=true&locale=en" alt="aditi-mahapatra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-mahapatra&" alt="aditi-mahapatra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-mahapatra&theme=dark&" alt="aditi-mahapatra" /></p>
